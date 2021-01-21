@@ -227,7 +227,6 @@ def bag_of_words(s, words):
 ```
 *One hot encoding done here*
 
----
 ```python
 def chat():
     print("start your chat here: (to stop the program type "stop") ")
