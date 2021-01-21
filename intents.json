@@ -32,8 +32,7 @@
     
     {"tag": "hobbies",
      "patterns": ["what are your interests ?", "what are your hobbies ? ", "mention stuff you prefer to do in your spare time"],
-     "responses": ["I love to listen to music and sing, read book, play indoorand outdoor games(solve puzzles, football, basketball, badminton, swimming, table tennis, etc),
-       do art work(sketch, paint and some crafty stuff), watch movies and Tv series,and go on trips seeing new places."],
+     "responses": ["I love to listen to music and sing, read book, play indoor and outdoor games, do art work , watch movies and Tv series,and go on trips seeing new places."],
      "context_set": ""
     }]
 }
